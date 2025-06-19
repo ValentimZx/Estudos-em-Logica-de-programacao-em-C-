@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\borge\\Desktop\\Estudos em Logica de programacao em C#\\Calculadora_De_Casamento\\Calculadora_De_Casamento.csproj": {}
+    "c:\\Users\\borge\\Desktop\\Estudos em Logica de programacao em C#\\Calculadora_De_Casamento\\Calculadora_De_Casamento.csproj": {}
   },
   "projects": {
-    "C:\\Users\\borge\\Desktop\\Estudos em Logica de programacao em C#\\Calculadora_De_Casamento\\Calculadora_De_Casamento.csproj": {
+    "c:\\Users\\borge\\Desktop\\Estudos em Logica de programacao em C#\\Calculadora_De_Casamento\\Calculadora_De_Casamento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\borge\\Desktop\\Estudos em Logica de programacao em C#\\Calculadora_De_Casamento\\Calculadora_De_Casamento.csproj",
+        "projectUniqueName": "c:\\Users\\borge\\Desktop\\Estudos em Logica de programacao em C#\\Calculadora_De_Casamento\\Calculadora_De_Casamento.csproj",
         "projectName": "Calculadora_De_Casamento",
-        "projectPath": "C:\\Users\\borge\\Desktop\\Estudos em Logica de programacao em C#\\Calculadora_De_Casamento\\Calculadora_De_Casamento.csproj",
+        "projectPath": "c:\\Users\\borge\\Desktop\\Estudos em Logica de programacao em C#\\Calculadora_De_Casamento\\Calculadora_De_Casamento.csproj",
         "packagesPath": "C:\\Users\\borge\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\borge\\Desktop\\Estudos em Logica de programacao em C#\\Calculadora_De_Casamento\\obj\\",
+        "outputPath": "c:\\Users\\borge\\Desktop\\Estudos em Logica de programacao em C#\\Calculadora_De_Casamento\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

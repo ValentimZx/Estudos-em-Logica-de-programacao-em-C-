@@ -1,0 +1,15 @@
+c:\Users\borge\Desktop\Estudos em Logica de programacao em C#\Calculadora_De_Casamento\bin\Debug\net9.0\Calculadora_De_Casamento.exe
+c:\Users\borge\Desktop\Estudos em Logica de programacao em C#\Calculadora_De_Casamento\bin\Debug\net9.0\Calculadora_De_Casamento.deps.json
+c:\Users\borge\Desktop\Estudos em Logica de programacao em C#\Calculadora_De_Casamento\bin\Debug\net9.0\Calculadora_De_Casamento.runtimeconfig.json
+c:\Users\borge\Desktop\Estudos em Logica de programacao em C#\Calculadora_De_Casamento\bin\Debug\net9.0\Calculadora_De_Casamento.dll
+c:\Users\borge\Desktop\Estudos em Logica de programacao em C#\Calculadora_De_Casamento\bin\Debug\net9.0\Calculadora_De_Casamento.pdb
+c:\Users\borge\Desktop\Estudos em Logica de programacao em C#\Calculadora_De_Casamento\obj\Debug\net9.0\Calculadora_De_Casamento.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\borge\Desktop\Estudos em Logica de programacao em C#\Calculadora_De_Casamento\obj\Debug\net9.0\Calculadora_De_Casamento.AssemblyInfoInputs.cache
+c:\Users\borge\Desktop\Estudos em Logica de programacao em C#\Calculadora_De_Casamento\obj\Debug\net9.0\Calculadora_De_Casamento.AssemblyInfo.cs
+c:\Users\borge\Desktop\Estudos em Logica de programacao em C#\Calculadora_De_Casamento\obj\Debug\net9.0\Calculadora_De_Casamento.csproj.CoreCompileInputs.cache
+c:\Users\borge\Desktop\Estudos em Logica de programacao em C#\Calculadora_De_Casamento\obj\Debug\net9.0\Calculadora_De_Casamento.sourcelink.json
+c:\Users\borge\Desktop\Estudos em Logica de programacao em C#\Calculadora_De_Casamento\obj\Debug\net9.0\Calculadora_De_Casamento.dll
+c:\Users\borge\Desktop\Estudos em Logica de programacao em C#\Calculadora_De_Casamento\obj\Debug\net9.0\refint\Calculadora_De_Casamento.dll
+c:\Users\borge\Desktop\Estudos em Logica de programacao em C#\Calculadora_De_Casamento\obj\Debug\net9.0\Calculadora_De_Casamento.pdb
+c:\Users\borge\Desktop\Estudos em Logica de programacao em C#\Calculadora_De_Casamento\obj\Debug\net9.0\Calculadora_De_Casamento.genruntimeconfig.cache
+c:\Users\borge\Desktop\Estudos em Logica de programacao em C#\Calculadora_De_Casamento\obj\Debug\net9.0\ref\Calculadora_De_Casamento.dll
